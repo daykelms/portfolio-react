@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          dmuro_portfolio
+          dmuro_portfolio_new
         </a>
       </header>
     </div>
